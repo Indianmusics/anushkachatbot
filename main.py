@@ -7,10 +7,10 @@ import os
 import re
 
 
-API_ID = os.environ.get("API_ID", "21175647") 
-API_HASH = os.environ.get("API_HASH", "0e88e787076e3e32b5563aea9d0651d2") 
-STRING = os.environ.get("STRING", "AQDDmxfxxIYK0AnF6NccQFtb7zi5hHM9Gx92goQReiOk607cDe5jUO0eMS8SuiADNntsZD4l7EJdHw8GeAEv_YU9Cmb0E3t6j7erslunnmBi8NDW4_So90VPBJA4bcTjsS0-_n1SNndyg2lYXZalcLhzdaVWdVm1GUDbXm94ls_U6NdvlDk4E6q75IzARu5OlKBIjpe7dukfSc_V798QQ3oE3lULMnmtosCtEo-cEYimO83jYwxHMwpeJbiy36UAmxl-uGlWcxLM5fuN9nzbkpkDEp8CMLaYJUZut02AxdHFSw0OuU57CrZ8wFZInb85-KJIEdpL1L3ujOFeRBgkPmteAAAAAUAievEA") 
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://Natasha:Natasha@cluster0.u3zg6ow.mongodb.net/?retryWrites=true&w=majority")
+API_ID = os.environ.get("API_ID", "28736142") 
+API_HASH = os.environ.get("API_HASH", "eb35ea57ece186c3b0bd9239e7aafecb") 
+STRING = os.environ.get("STRING", "QArqmT-jJEtC9pTALMnTtoOVerKhjwNGLanK74w1sUJCTk93NxFw2tGVgcPssjHinGWay3w7xB7Pf5iHNltaAR2GviKK8ysrGlDlM4mF0vfkuJ5PKtugsKpzoWPlLGOdEZGiY3SUqLoT0BgxHn4MESEo_GBrK2ci12J21m8I825ng6BywVjZjVKk0iAstl7a_lPlxX62HyLpRU3okDQxj-H--dRws0M5hVycq2k8PdY_zOtKBnLR4oTuKrNeODQPJ0WuBMrIfcB5gnpm4dBPn35I2HgkNTVJdPrCdg8VtnbaZipl3TdPyswCrosfi8fj0-UTdilbYf3x0cd8yhMxMIQAAAAAH3aDooA") 
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://Ziddiboy:ziddiboy1760@cluster0.qim8l.mongodb.net/?retryWrites=true&w=majority")
 
 
 bot = Client(STRING, API_ID, API_HASH)
